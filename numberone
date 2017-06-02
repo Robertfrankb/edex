@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html lang "en">
+<tiltle>JavaScript and HTML<tiltle>
+<meta charset=utf-8/>
+<script>
+function changeTiltle(){
+var title = document.queryselector("maintitle");
